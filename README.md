@@ -1,1 +1,4 @@
-# odin-recipes
+# Odin Recipes
+This is a HTML project of recipe pages that I created following the instructions from The Odin Project [Foundations Course](https://www.theodinproject.com/lessons/foundations-recipes). It's in pure HTML for now. The lesson page said that we will revisit this project in the following lessons to style it up with CSS.
+
+I added the bare minimum required content to focus on getting things to work. This is also the first project in the course, and the first repo in which I practice better commit messages. Hopefully my commits are atomic enough and represent meaningful changes. I still only needed to use the simplest git commands up to this point. There are many things to learn, many mistakes to try as I keep learning to get used to the Linux command line.
