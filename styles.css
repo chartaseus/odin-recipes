@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(255, 242, 224);
+  font-family: Verdana, 'Trebuchet MS', sans-serif;
+  color: rgb(210, 105, 30);
+}
+
+a {
+  color: rgb(210, 81, 30);
+}
+
+a:visited {
+  color: rgb(210, 135, 30);
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+  list-style-type:"> ";
+  list-style-position: inside;
+  text-align: center;
+}
